@@ -6,3 +6,10 @@ body {
   padding: 4px palegreen;
   beckground: mediumturquoise;
 }
+table, th, td {
+  border: 1px solid;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 2px;
+}
+tr:hover {background-color: lime;}
