@@ -4,7 +4,7 @@ body {
 }
 #main {
   padding: 4px palegreen;
-  beckground: mediumturquoise;
+  background: mediumturquoise;
 }
 table, th, td {
   border: 1px solid;
