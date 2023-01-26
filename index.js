@@ -7,5 +7,7 @@ function promptPassword() {
     document.body.style.display = 'inherit';
 }
 
-promptPassword();
+if (document.cookie = null) {
+  promptPassword();
+}
 alert('Your text is now a cookie');
