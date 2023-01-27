@@ -4,4 +4,5 @@ align: bottom;
 }
 .ongoing {color:orange;}
 .finished {color:darkgreen;}
-.standby {color:red;}
+.paused {color:purple;}
+.waiting {color:red;}
