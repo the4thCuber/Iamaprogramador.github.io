@@ -1,0 +1,7 @@
+#content {
+height: 90%;
+align: bottom;
+}
+.ongoing {color:orange;}
+.finished {color:darkgreen;}
+.standby {color:red;}
