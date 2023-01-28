@@ -1,13 +1,12 @@
-document.body.style.display = 'none';
-
 function promptPassword() {
-    var _password = prompt('Enter some text to display this page. This do be a cookie.');
+    var _password = prompt('Please enter some text to display this page. Your text will be saved as a cookie for the next time you visit this site.');
     //if (_password != '') promptPassword();
     document.cookie = _password;
     document.body.style.display = 'inherit';
 }
 
 if (document.cookie = null) {
-  promptPassword();
+    document.body.style.display = 'none';
+    promptPassword();
 }
-alert('Your text is now a cookie');
+alert('Your inputted text was stored as a cookie.');
