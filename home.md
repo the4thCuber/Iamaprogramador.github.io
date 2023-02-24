@@ -1,6 +1,6 @@
 layout: page
   title: home
-  permalink: /
+  permalink: /index.html
 
 <div id="main" style="background:mediumturquoise">
       <h3>Iamaprogramador's Website</h3>
