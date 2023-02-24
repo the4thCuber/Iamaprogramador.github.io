@@ -1,6 +1,8 @@
+---
 layout: page
-  title: home
-  permalink: /index.html
+title: home
+permalink: /index.html
+---
 
 <div id="main" style="background:mediumturquoise">
       <h3>Iamaprogramador's Website</h3>
