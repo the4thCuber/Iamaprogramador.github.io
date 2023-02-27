@@ -5,8 +5,9 @@ GitHub Pages Site for Iamaprogramador
       Visit my YouTube channel at <a href="https://www.youtube.com/@Iamaprogramador">this link</a>.
       Or, get on my <a href="https://discord.gg/HUvtaC8pYw">Discord</a>. I hope this website was helpful!
 	   <q>--Iamaprogramador</q>
-     <p>View the list of my current projects <a href="./projects.html">here</a>.</p>
-	<embed type="text/html" src="./projects.html" width="400" height="750">
+	<ul>Projects (Completed and Unfinished)</ul>
+	<li><a href="https://iamaprogramador.github.io/gptlinux">Essay about Linux</a></li> 
+	Currently, that's all, but if you have suggestions, visit the <a href="https://discord.gg/HUvtaC8pYw">Discord</a>.</ul>
         </div>
     <div id="embeds" style="background:mediumturqoise">
     <p>This is an embed of a playlist on my YouTube channel.</p>
